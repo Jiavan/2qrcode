@@ -21,5 +21,7 @@ https://chrome.google.com/webstore/detail/2qrcode/plpmkgbnfajfbjklnndebkbbplfjjc
 - jQuery
 - QRCode.js
 
+特别感谢室友[@刘江](http://fakafang.com/)同学设计的logo
+
 ## License
 MIT
